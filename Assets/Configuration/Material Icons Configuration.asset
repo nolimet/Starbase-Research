@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1da4d26a78eb2b546b719c7300e13a5a, type: 3}
+  m_Name: Material Icons Configuration
+  m_EditorClassIdentifier: Assembly-CSharp::MaterialIconsConfiguration
+  materials:
+  - icon: {fileID: 7482667652216324306, guid: ff9b552ddcb19df4d92846c0b1ac18d2, type: 3}
+    material: 0
+  - icon: {fileID: -9103365935744893332, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 1
+  - icon: {fileID: 3660969412638624402, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 2
+  - icon: {fileID: 5941722360324555010, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 3
+  - icon: {fileID: -2338786353942561901, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 4
+  - icon: {fileID: 7045693281552027948, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 5
+  - icon: {fileID: -3549395402754310466, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 6
+  - icon: {fileID: 21300000, guid: 28d3d92de1124f84ba78cc618ba21864, type: 3}
+    material: 7
+  - icon: {fileID: 2485001273855614207, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 8
+  - icon: {fileID: 1185625621432868040, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 9
+  - icon: {fileID: 1323415399755408597, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 10
+  - icon: {fileID: 5207645429488353178, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 11
+  - icon: {fileID: -1997887343703444119, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 12
+  - icon: {fileID: -1563160079213295533, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 13
+  - icon: {fileID: -233563696281016168, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 14
+  - icon: {fileID: -3693390269043314903, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 15
+  - icon: {fileID: 21300000, guid: 4fe4ac8b19ae8104a867adfda3a1bd1f, type: 3}
+    material: 16
+  - icon: {fileID: -6123516986184457548, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 17
+  - icon: {fileID: 3002950497897002101, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 18
+  - icon: {fileID: -8936387937769388390, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 19
+  - icon: {fileID: 21300000, guid: 4b4ca48fa06993f42a4185d77315d64d, type: 3}
+    material: 20
+  - icon: {fileID: 21300000, guid: 9890ccfc60354004eb9849eb64d3198d, type: 3}
+    material: 21
+  - icon: {fileID: 822466719513040123, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 22
+  - icon: {fileID: -791985138629306653, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 23
+  - icon: {fileID: -4730875388352165606, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 24
+  - icon: {fileID: -7450134311625967128, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 25
+  - icon: {fileID: -7539848685837947998, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+    material: 26
+  - icon: {fileID: 21300000, guid: 1a9ef76ea955787439104745a8cb4ac5, type: 3}
+    material: 28
