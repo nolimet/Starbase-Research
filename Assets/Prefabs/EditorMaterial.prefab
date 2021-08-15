@@ -539,7 +539,7 @@ GameObject:
   - component: {fileID: 4788370128662264262}
   - component: {fileID: 6985516650203967402}
   m_Layer: 5
-  m_Name: Material
+  m_Name: EditorMaterial
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
