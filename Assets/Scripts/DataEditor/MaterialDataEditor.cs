@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEngine;
 using TMPro;
+using UnityEngine;
+using Zenject;
 
 public class MaterialDataEditor : MonoBehaviour
 {
@@ -14,21 +12,54 @@ public class MaterialDataEditor : MonoBehaviour
     [SerializeField]
     private TMP_Dropdown materialType;
 
-    public Material data => new Material
+    private Action<MaterialDataEditor> removeAction;
+
+    public Material Data => new Material
         (
-            Enum.Parse(typeof(ResourcesType), materialType.options[materialType.value].text) as ResourcesType,
+            (ResourcesType)Enum.Parse(typeof(ResourcesType), materialType.options[materialType.value].text),
             int.TryParse(amount.text, out var result) ? result : 0
         );
 
-    private void Awake()
+    public void RemoveMaterial()
     {
-        var resourceTypes = Enum.GetNames(typeof(ResourcesType));
+        removeAction?.Invoke(this);
+    }
 
-        materialType.AddOptions(resourceTypes.Select(x => CreateOption(x)).ToList());
+    private void Start()
+    {
+        amount.SetTextWithoutNotify("0");
+    }
 
-        TMP_Dropdown.OptionData CreateOption(string x)
+    public class Factory : PlaceholderFactory<MaterialDataEditor>
+    {
+        [Inject]
+        private MaterialIconsConfiguration materialIcons;
+
+        public MaterialDataEditor Create(Transform parent, Action<MaterialDataEditor> removeAction)
         {
-            return new TMP_Dropdown.OptionData(x);
+            var newMaterial = base.Create();
+            newMaterial.transform.SetParent(parent, false);
+            newMaterial.removeAction = removeAction;
+
+            var resourceTypes = Enum.GetValues(typeof(ResourcesType)) as ResourcesType[];
+            newMaterial.materialType.options = resourceTypes.Select(x => CreateOption(x)).ToList();
+
+            return newMaterial;
+            TMP_Dropdown.OptionData CreateOption(ResourcesType resource)
+            {
+                return new TMP_Dropdown.OptionData(resource.ToString(), materialIcons.GetIconForMaterial(resource));
+            }
+        }
+
+        public MaterialDataEditor Create(Transform parent, Action<MaterialDataEditor> removeAction, Material data)
+        {
+            var newMaterial = Create(parent, removeAction);
+
+            newMaterial.amount.text = data.Amount.ToString();
+            string materialName = data.Type.ToString();
+            newMaterial.materialType.value = newMaterial.materialType.options.FindIndex(x => x.text == materialName);
+
+            return newMaterial;
         }
     }
 }
