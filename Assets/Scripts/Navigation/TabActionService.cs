@@ -17,9 +17,9 @@ public class TabActionService : ITickable
         {
             var nextAction = eventsystem.currentSelectedGameObject.GetComponent<TabNavigationAction>();
 
-            if (nextAction.Next)
+            if (nextAction.next)
             {
-                eventsystem.SetSelectedGameObject(nextAction.Next.gameObject);
+                eventsystem.SetSelectedGameObject(nextAction.next.gameObject);
             }
         }
     }

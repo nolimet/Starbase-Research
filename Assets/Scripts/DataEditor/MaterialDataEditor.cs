@@ -12,6 +12,11 @@ public class MaterialDataEditor : MonoBehaviour
     [SerializeField]
     private TMP_Dropdown materialType;
 
+    [SerializeField]
+    private TabNavigationAction nextAction;
+
+    public TabNavigationAction NextAction => nextAction;
+
     private Action<MaterialDataEditor> removeAction;
 
     public Material Data => new Material
