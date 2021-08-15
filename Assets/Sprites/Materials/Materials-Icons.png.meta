@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 045bebdee5d1f8b48983382fec8872a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1323415399755408597
+    second: Ice
+  - first:
+      213: -4730875388352165606
+    second: Valkite
+  - first:
+      213: 3660969412638624402
+    second: Ajatite
+  - first:
+      213: 3002950497897002101
+    second: Oninum
+  - first:
+      213: 7045693281552027948
+    second: Charodium
+  - first:
+      213: -9103365935744893332
+    second: Aegisium
+  - first:
+      213: -3693390269043314903
+    second: Merkerium
+  - first:
+      213: -233563696281016168
+    second: Lukium
+  - first:
+      213: -2338786353942561901
+    second: Bastium
+  - first:
+      213: -1563160079213295533
+    second: Kutonium
+  - first:
+      213: 5941722360324555010
+    second: Arkanium
+  - first:
+      213: -3549395402754310466
+    second: Corazium
+  - first:
+      213: -7539848685837947998
+    second: Xhalium
+  - first:
+      213: 5207645429488353178
+    second: Ilmatrium
+  - first:
+      213: -791985138629306653
+    second: Ukonium
+  - first:
+      213: 822466719513040123
+    second: Tengium
+  - first:
+      213: -7450134311625967128
+    second: Vokarium
+  - first:
+      213: 2485001273855614207
+    second: Exorium
+  - first:
+      213: -8936387937769388390
+    second: Surtrite
+  - first:
+      213: 1185625621432868040
+    second: Haderite
+  - first:
+      213: -1997887343703444119
+    second: Karnite
+  - first:
+      213: -6123516986184457548
+    second: Nhurgite
+  - first:
+      213: 7676046159875123659
+    second: Ice_Refined
+  - first:
+      213: 6271190156222831160
+    second: Valkite_Refined
+  - first:
+      213: 1285703657509426619
+    second: Ajatite_Refined
+  - first:
+      213: -4781232527300708886
+    second: Oninum_Refined
+  - first:
+      213: 3983361749087692533
+    second: Charodium_Refined
+  - first:
+      213: 2122705006976287896
+    second: Aegisium_Refined
+  - first:
+      213: 4168464967612706886
+    second: Merkerium_Refined
+  - first:
+      213: -4814320627733857890
+    second: Lukium_Refined
+  - first:
+      213: 2167814560036101115
+    second: Bastium_Refined
+  - first:
+      213: -839376311163689335
+    second: Kutonium_Refined
+  - first:
+      213: -8582264242625934378
+    second: Arkanium_Refined
+  - first:
+      213: 4325996561644230658
+    second: Corazium_Refined
+  - first:
+      213: 6853923836921421078
+    second: Xhalium_Refined
+  - first:
+      213: 4067911981436648873
+    second: Ilmatrium_Refined
+  - first:
+      213: -8155184565137459468
+    second: Ukonium_Refined
+  - first:
+      213: 5243203479077902605
+    second: Tengium_Refined
+  - first:
+      213: 6314459638694031450
+    second: Vokarium_Refined
+  - first:
+      213: 5980042626536095679
+    second: Exorium_Refined
+  - first:
+      213: 5822868136497651802
+    second: Surtrite_Refined
+  - first:
+      213: -4918573042711741806
+    second: Haderite_Refined
+  - first:
+      213: 8959349523358722429
+    second: Karnite_Refined
+  - first:
+      213: 5885901901441191706
+    second: Nhurgite_Refined
+  - first:
+      213: -8536672227067796250
+    second: Material_inventory_icons_44
+  - first:
+      213: 4485374875539907685
+    second: Material_inventory_icons_45
+  - first:
+      213: 2813545360223439431
+    second: Material_inventory_icons_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1828
+        width: 172
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4e3b85b47bd5210800000000000000
+      internalID: 1323415399755408597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkite
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1821
+        width: 164
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1981a846ed885eb0800000000000000
+      internalID: -4730875388352165606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ajatite
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1831
+        width: 228
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a45edb8406ec230800000000000000
+      internalID: 3660969412638624402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oninum
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1846
+        width: 216
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574bb39419f9ca920800000000000000
+      internalID: 3002950497897002101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charodium
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1824
+        width: 197
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21d34bb5b457c160800000000000000
+      internalID: 7045693281552027948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aegisium
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1856
+        width: 222
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eb883c9e85aa180800000000000000
+      internalID: -9103365935744893332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merkerium
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1835
+        width: 207
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fe9c46e117ebcc0800000000000000
+      internalID: -3693390269043314903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lukium
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1822
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8982eb24e0732ccf0800000000000000
+      internalID: -233563696281016168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bastium
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1592
+        width: 165
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf8b7d336fa8fd0800000000000000
+      internalID: -2338786353942561901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kutonium
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1602
+        width: 214
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3588b6f903a8e4ae0800000000000000
+      internalID: -1563160079213295533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arkanium
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1593
+        width: 213
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2010421910d357250800000000000000
+      internalID: 5941722360324555010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corazium
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1611
+        width: 210
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebebc6bcfa30ebec0800000000000000
+      internalID: -3549395402754310466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xhalium
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1589
+        width: 143
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abee6c61931d5790800000000000000
+      internalID: -7539848685837947998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilmatrium
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1590
+        width: 147
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ff6d44de5454840800000000000000
+      internalID: 5207645429488353178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ukonium
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1586
+        width: 147
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e69c9866bd4205f0800000000000000
+      internalID: -791985138629306653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tengium
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1607
+        width: 207
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d720bf1df96b00800000000000000
+      internalID: 822466719513040123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vokarium
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1358
+        width: 170
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9b59ae05ecb9890800000000000000
+      internalID: -7450134311625967128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exorium
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1375
+        width: 230
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc9e821e7f7c7220800000000000000
+      internalID: 2485001273855614207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surtrite
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1390
+        width: 231
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a968b2284829bf380800000000000000
+      internalID: -8936387937769388390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haderite
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1384
+        width: 231
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9b129830347010800000000000000
+      internalID: 1185625621432868040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karnite
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1348
+        width: 165
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965be41db041644e0800000000000000
+      internalID: -1997887343703444119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhurgite
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1351
+        width: 178
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a76eaeb5e40ba0800000000000000
+      internalID: -6123516986184457548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Refined
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 231
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9abde105bc68a60800000000000000
+      internalID: 7676046159875123659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkite_Refined
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1092
+        width: 162
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a969c883eb70750800000000000000
+      internalID: 6271190156222831160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ajatite_Refined
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1092
+        width: 163
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb515402aacb7d110800000000000000
+      internalID: 1285703657509426619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oninum_Refined
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1094
+        width: 223
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5b2b53956a5adb0800000000000000
+      internalID: -4781232527300708886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charodium_Refined
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1094
+        width: 223
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f62042f76eb74730800000000000000
+      internalID: 3983361749087692533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aegisium_Refined
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1091
+        width: 222
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894c3cf05fc557d10800000000000000
+      internalID: 2122705006976287896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merkerium_Refined
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1089
+        width: 223
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64037357dcc59d930800000000000000
+      internalID: 4168464967612706886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lukium_Refined
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1093
+        width: 223
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99761d75e8103db0800000000000000
+      internalID: -4814320627733857890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bastium_Refined
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 855
+        width: 222
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb1fd55bdf951e10800000000000000
+      internalID: 2167814560036101115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kutonium_Refined
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 851
+        width: 222
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e53431bfe954f0800000000000000
+      internalID: -839376311163689335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arkanium_Refined
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 852
+        width: 223
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db8eb1642ca5e880800000000000000
+      internalID: -8582264242625934378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corazium_Refined
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 851
+        width: 223
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089d54e3f6090c30800000000000000
+      internalID: 4325996561644230658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xhalium_Refined
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 852
+        width: 222
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d98418a670e1f50800000000000000
+      internalID: 6853923836921421078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ilmatrium_Refined
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 851
+        width: 222
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad3617f460247830800000000000000
+      internalID: 4067911981436648873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ukonium_Refined
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 851
+        width: 222
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6bb3598d6f2de80800000000000000
+      internalID: -8155184565137459468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tengium_Refined
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 851
+        width: 222
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09d787d8c993c840800000000000000
+      internalID: 5243203479077902605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vokarium_Refined
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 613
+        width: 222
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5036e0069771a750800000000000000
+      internalID: 6314459638694031450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exorium_Refined
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 616
+        width: 222
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfb060d5116df250800000000000000
+      internalID: 5980042626536095679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surtrite_Refined
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 630
+        width: 230
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5022e128bbfec050800000000000000
+      internalID: 5822868136497651802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haderite_Refined
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 630
+        width: 231
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aba5b90e7bdbbb0800000000000000
+      internalID: -4918573042711741806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karnite_Refined
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 630
+        width: 231
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79ac5e3ce0065c70800000000000000
+      internalID: 8959349523358722429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhurgite_Refined
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 633
+        width: 231
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fc232389ceea150800000000000000
+      internalID: 5885901901441191706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_inventory_icons_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 219
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e46ea5b6d5a78980800000000000000
+      internalID: -8536672227067796250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_inventory_icons_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 222
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564a40d4fa04f3e30800000000000000
+      internalID: 4485374875539907685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Material_inventory_icons_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 79
+        width: 224
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a019b2998bb0720800000000000000
+      internalID: 2813545360223439431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

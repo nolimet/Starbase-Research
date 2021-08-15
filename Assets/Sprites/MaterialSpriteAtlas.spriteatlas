@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MaterialSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 866010409c0ee864a96bcaa5511d5d74, type: 3}
+    totalSpriteSurfaceArea: 2628895
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4fe4ac8b19ae8104a867adfda3a1bd1f, type: 3}
+  - {fileID: 21300000, guid: 9890ccfc60354004eb9849eb64d3198d, type: 3}
+  - {fileID: 21300000, guid: 28d3d92de1124f84ba78cc618ba21864, type: 3}
+  - {fileID: 21300000, guid: 1a9ef76ea955787439104745a8cb4ac5, type: 3}
+  - {fileID: 6314459638694031450, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 7676046159875123659, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 5822868136497651802, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -233563696281016168, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -7539848685837947998, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -4814320627733857890, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 5243203479077902605, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 4168464967612706886, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 2485001273855614207, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -9103365935744893332, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 5207645429488353178, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -2338786353942561901, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 8959349523358722429, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 6853923836921421078, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 3002950497897002101, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -8582264242625934378, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -3549395402754310466, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 1323415399755408597, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 1185625621432868040, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 5885901901441191706, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 6271190156222831160, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 3660969412638624402, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 4485374875539907685, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -8536672227067796250, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 2813545360223439431, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 1285703657509426619, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -839376311163689335, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 5980042626536095679, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -8936387937769388390, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -7450134311625967128, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -4918573042711741806, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 4325996561644230658, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 7045693281552027948, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -4781232527300708886, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -8155184565137459468, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 4067911981436648873, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -1997887343703444119, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 822466719513040123, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -791985138629306653, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -3693390269043314903, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -1563160079213295533, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 5941722360324555010, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 2122705006976287896, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -4730875388352165606, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: -6123516986184457548, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 3983361749087692533, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 2167814560036101115, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
+  - {fileID: 21300000, guid: 4b4ca48fa06993f42a4185d77315d64d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Naflite
+  - Targium
+  - Daltium
+  - Ymrium
+  - Vokarium_Refined
+  - Ice_Refined
+  - Surtrite_Refined
+  - Lukium
+  - Xhalium
+  - Lukium_Refined
+  - Tengium_Refined
+  - Merkerium_Refined
+  - Exorium
+  - Aegisium
+  - Ilmatrium
+  - Bastium
+  - Karnite_Refined
+  - Xhalium_Refined
+  - Oninum
+  - Arkanium_Refined
+  - Corazium
+  - Ice
+  - Haderite
+  - Nhurgite_Refined
+  - Valkite_Refined
+  - Ajatite
+  - Material_inventory_icons_45
+  - Material_inventory_icons_44
+  - Material_inventory_icons_46
+  - Ajatite_Refined
+  - Kutonium_Refined
+  - Exorium_Refined
+  - Surtrite
+  - Vokarium
+  - Haderite_Refined
+  - Corazium_Refined
+  - Charodium
+  - Oninum_Refined
+  - Ukonium_Refined
+  - Ilmatrium_Refined
+  - Karnite
+  - Tengium
+  - Ukonium
+  - Merkerium
+  - Kutonium
+  - Arkanium
+  - Aegisium_Refined
+  - Valkite
+  - Nhurgite
+  - Charodium_Refined
+  - Bastium_Refined
+  - Talkite
+  m_RenderDataMap: {}
+  m_Tag: MaterialSpriteAtlas
+  m_IsVariant: 0
