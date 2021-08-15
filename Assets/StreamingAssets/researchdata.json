@@ -1,0 +1,42 @@
+{
+  "objects": [
+    {
+      "name": "Basic",
+      "Cube": 22,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 265.8
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 64.03
+        }
+      ]
+    },
+    {
+      "name": "Basic 1 Hardpoint",
+      "Cube": 8,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 278.07
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 144.89
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 66.42
+        }
+      ]
+    }
+  ]
+}
