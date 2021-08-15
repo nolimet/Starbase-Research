@@ -12,6 +12,9 @@ public class ResearchDataEditor : MonoBehaviour
     [SerializeField]
     private Transform materialContainer;
 
+    [SerializeField]
+    private TabNavigationAction lastAction;
+
     [Inject]
     private MaterialDataEditor.Factory materialFactory;
 
@@ -22,7 +25,14 @@ public class ResearchDataEditor : MonoBehaviour
 
     public void AddMaterial()
     {
-        materialDataEditors.Add(materialFactory.Create(materialContainer, RemoveMaterialCallback));
+        var newMaterialData = materialFactory.Create(materialContainer, RemoveMaterialCallback);
+        if (materialDataEditors.Count > 0)
+        {
+            materialDataEditors.Last().NextAction.next = newMaterialData.NextAction;
+        }
+
+        materialDataEditors.Add(newMaterialData);
+        lastAction.next = materialDataEditors.First().NextAction;
     }
 
     public void Submit()

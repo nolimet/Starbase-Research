@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -25,6 +26,13 @@ public class ResearchDataService
     public void AddNewResearchObject(ResearchObject researchObject)
     {
         researchObjects.Add(researchObject);
+        DataChanged?.Invoke();
+    }
+
+    internal void RemoveResearchObject(ResearchObject researchObject)
+    {
+        var index = researchObjects.FindIndex(x => x == researchObject);
+        researchObjects.RemoveAt(index);
         DataChanged?.Invoke();
     }
 
@@ -55,7 +63,7 @@ public class ResearchDataService
             file.Directory.Create();
         }
 
-        string json = JsonConvert.SerializeObject(new ReasearchData(researchObjects.OrderBy(x => x.name).ToArray()), Formatting.Indented);
+        string json = JsonConvert.SerializeObject(new ReasearchData(researchObjects.OrderBy(x => x.Name).ToArray()), Formatting.Indented);
         using (var textWriter = file.CreateText())
         {
             await textWriter.WriteAsync(json);

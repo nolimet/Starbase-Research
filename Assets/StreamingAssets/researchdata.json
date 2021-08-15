@@ -37,6 +37,153 @@
           "Amount": 66.42
         }
       ]
+    },
+    {
+      "name": "Basic 1 Ore Crate (Corner)",
+      "Cube": 47,
+      "Power": 8,
+      "Shield": 0,
+      "Gear": 8,
+      "materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 650.26
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 170.12
+        }
+      ]
+    },
+    {
+      "name": "Basic 1 T1 Fuel Rod & Rack",
+      "Cube": 39,
+      "Power": 3,
+      "Shield": 0,
+      "Gear": 3,
+      "materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 472.42
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 86.81
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 69.14
+        }
+      ]
+    },
+    {
+      "name": "Basic 1 T1 Maneuver Thruster",
+      "Cube": 8,
+      "Power": 2,
+      "Shield": 0,
+      "Gear": 0,
+      "materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 292.56
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 156.96
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 66.42
+        },
+        {
+          "Type": "Charodium",
+          "Amount": 21.73
+        }
+      ]
+    },
+    {
+      "name": "Basic 2 Small Propellant",
+      "Cube": 45,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 28,
+      "materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 732.45
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 254.65
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 16.01
+        }
+      ]
+    },
+    {
+      "name": "Basic 2 T1 Fuel Rod & Rack",
+      "Cube": 56,
+      "Power": 6,
+      "Shield": 0,
+      "Gear": 6,
+      "materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 679.05
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 121.38
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 138.28
+        }
+      ]
+    },
+    {
+      "name": "Basic 4 Battery",
+      "Cube": 49,
+      "Power": 228,
+      "Shield": 0,
+      "Gear": 60,
+      "materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 782.3
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 234.23
+        },
+        {
+          "Type": "Nhurgite",
+          "Amount": 2723.3
+        }
+      ]
+    },
+    {
+      "name": "Basic 8 Battery",
+      "Cube": 77,
+      "Power": 456,
+      "Shield": 0,
+      "Gear": 120,
+      "materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 1294.05
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 404.43
+        },
+        {
+          "Type": "Nhurgite",
+          "Amount": 5446.6
+        }
+      ]
     }
   ]
 }
