@@ -22,6 +22,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1461406361155671425, guid: 77a36bc61df098442ba374bbac078ffc, type: 3}
+      propertyPath: m_text
+      value: '00000kv
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 1702311595917148981, guid: 77a36bc61df098442ba374bbac078ffc, type: 3}
       propertyPath: m_Name
       value: ResearchMaterial
@@ -56,7 +62,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3411615487913723901, guid: 77a36bc61df098442ba374bbac078ffc, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 190
+      value: 206
       objectReference: {fileID: 0}
     - target: {fileID: 3411615487913723901, guid: 77a36bc61df098442ba374bbac078ffc, type: 3}
       propertyPath: m_SizeDelta.y
@@ -112,19 +118,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4086289066421357172, guid: 77a36bc61df098442ba374bbac078ffc, type: 3}
       propertyPath: m_SizeDelta.x
-      value: -111.99
+      value: -134.6897
       objectReference: {fileID: 0}
     - target: {fileID: 4086289066421357172, guid: 77a36bc61df098442ba374bbac078ffc, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 55.901
+      value: 67.34483
       objectReference: {fileID: 0}
     - target: {fileID: 4144632403758266260, guid: 77a36bc61df098442ba374bbac078ffc, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 85.8939
+      value: 106.4107
       objectReference: {fileID: 0}
     - target: {fileID: 8721455551152317503, guid: 77a36bc61df098442ba374bbac078ffc, type: 3}
       propertyPath: m_text
-      value: Vokarium
+      value: Vokariumass
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 77a36bc61df098442ba374bbac078ffc, type: 3}
