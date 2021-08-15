@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 public readonly struct DisplayResearchData
 {
@@ -32,18 +34,49 @@ public readonly struct ReasearchData
 [Serializable]
 public readonly struct ResearchObject
 {
-    public readonly string name;
+    public readonly string Name;
     public readonly int Cube, Power, Shield, Gear;
-    public readonly Material[] materials;
+    public readonly Material[] Materials;
 
     public ResearchObject(string name, int cube, int power, int shield, int gear, Material[] materials)
     {
-        this.name = name;
+        this.Name = name;
         Cube = cube;
         Power = power;
         Shield = shield;
         Gear = gear;
-        this.materials = materials;
+        this.Materials = materials;
+    }
+
+    public override bool Equals(object obj)
+    {
+        if (obj != null && obj is ResearchObject r)
+        {
+            return GetHashCode() == r.GetHashCode();
+        }
+        return false;
+    }
+
+    public override int GetHashCode()
+    {
+        int hashCode = 885680131;
+        hashCode = hashCode * -1521134295 + EqualityComparer<string>.Default.GetHashCode(Name);
+        hashCode = hashCode * -1521134295 + Cube.GetHashCode();
+        hashCode = hashCode * -1521134295 + Power.GetHashCode();
+        hashCode = hashCode * -1521134295 + Shield.GetHashCode();
+        hashCode = hashCode * -1521134295 + Gear.GetHashCode();
+        hashCode = hashCode * -1521134295 + EqualityComparer<Material[]>.Default.GetHashCode(Materials);
+        return hashCode;
+    }
+
+    public static bool operator ==(ResearchObject r1, ResearchObject r2)
+    {
+        return r1.Equals(r2);
+    }
+
+    public static bool operator !=(ResearchObject r1, ResearchObject r2)
+    {
+        return !r1.Equals(r2);
     }
 }
 
@@ -57,5 +90,32 @@ public readonly struct Material
     {
         this.Type = type;
         this.Amount = amount;
+    }
+
+    public override bool Equals(object obj)
+    {
+        if (obj != null && obj is Material m)
+        {
+            return GetHashCode() == m.GetHashCode();
+        }
+        return false;
+    }
+
+    public override int GetHashCode()
+    {
+        int hashCode = -1636817442;
+        hashCode = hashCode * -1521134295 + Type.GetHashCode();
+        hashCode = hashCode * -1521134295 + Amount.GetHashCode();
+        return hashCode;
+    }
+
+    public static bool operator ==(Material m1, Material m2)
+    {
+        return m1.Equals(m2);
+    }
+
+    public static bool operator !=(Material m1, Material m2)
+    {
+        return !m1.Equals(m2);
     }
 }
