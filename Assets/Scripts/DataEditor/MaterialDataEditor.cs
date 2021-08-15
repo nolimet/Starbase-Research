@@ -17,7 +17,7 @@ public class MaterialDataEditor : MonoBehaviour
     public Material Data => new Material
         (
             (ResourcesType)Enum.Parse(typeof(ResourcesType), materialType.options[materialType.value].text),
-            int.TryParse(amount.text, out var result) ? result : 0
+            double.TryParse(amount.text, out var result) ? result : 0
         );
 
     public void RemoveMaterial()

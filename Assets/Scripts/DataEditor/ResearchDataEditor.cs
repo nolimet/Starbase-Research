@@ -15,18 +15,19 @@ public class ResearchDataEditor : MonoBehaviour
     [Inject]
     private MaterialDataEditor.Factory materialFactory;
 
-    private readonly List<MaterialDataEditor> materialDataEditors = new List<MaterialDataEditor>();
+    [Inject]
+    private ResearchDataService researchDataService;
 
-    private readonly List<ResearchObject> researchObjects = new List<ResearchObject>();
+    private readonly List<MaterialDataEditor> materialDataEditors = new List<MaterialDataEditor>();
 
     public void AddMaterial()
     {
-        materialFactory.Create(materialContainer, RemoveMaterialCallback);
+        materialDataEditors.Add(materialFactory.Create(materialContainer, RemoveMaterialCallback));
     }
 
     public void Submit()
     {
-        researchObjects.Add(new ResearchObject
+        var newResearchObject = new ResearchObject
             (
                name: inputName.text,
                cube: int.TryParse(cubeAmount.text, out var cube) ? cube : 0,
@@ -34,7 +35,14 @@ public class ResearchDataEditor : MonoBehaviour
                shield: int.TryParse(shieldAmount.text, out var shield) ? shield : 0,
                gear: int.TryParse(gearAmount.text, out var gear) ? gear : 0,
                materials: materialDataEditors.Select(x => x.Data).ToArray()
-            ));
+            );
+
+        researchDataService.AddNewResearchObject(newResearchObject);
+    }
+
+    public void Save()
+    {
+        researchDataService.SaveData();
     }
 
     private void RemoveMaterialCallback(MaterialDataEditor material)
