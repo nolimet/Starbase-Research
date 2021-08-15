@@ -6,7 +6,7 @@ SpriteAtlas:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MaterialSpriteAtlas
+  m_Name: Icons
   m_EditorData:
     serializedVersion: 2
     textureSettings:
@@ -32,7 +32,8 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 866010409c0ee864a96bcaa5511d5d74, type: 3}
-    totalSpriteSurfaceArea: 2628895
+    - {fileID: 2800000, guid: e5f2584e2f1a21448af6aaacbb6d70ea, type: 3}
+    totalSpriteSurfaceArea: 2660575
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -41,6 +42,10 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 4fe4ac8b19ae8104a867adfda3a1bd1f, type: 3}
   - {fileID: 21300000, guid: 9890ccfc60354004eb9849eb64d3198d, type: 3}
   - {fileID: 21300000, guid: 28d3d92de1124f84ba78cc618ba21864, type: 3}
+  - {fileID: 300117803588083917, guid: e5f2584e2f1a21448af6aaacbb6d70ea, type: 3}
+  - {fileID: -2072751367224400655, guid: e5f2584e2f1a21448af6aaacbb6d70ea, type: 3}
+  - {fileID: 2918986934334888800, guid: e5f2584e2f1a21448af6aaacbb6d70ea, type: 3}
+  - {fileID: 1556838625939505678, guid: e5f2584e2f1a21448af6aaacbb6d70ea, type: 3}
   - {fileID: 21300000, guid: 1a9ef76ea955787439104745a8cb4ac5, type: 3}
   - {fileID: 6314459638694031450, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
   - {fileID: 7676046159875123659, guid: 045bebdee5d1f8b48983382fec8872a0, type: 3}
@@ -94,6 +99,10 @@ SpriteAtlas:
   - Naflite
   - Targium
   - Daltium
+  - Power
+  - Cube
+  - Gear
+  - Shield
   - Ymrium
   - Vokarium_Refined
   - Ice_Refined
@@ -144,5 +153,5 @@ SpriteAtlas:
   - Bastium_Refined
   - Talkite
   m_RenderDataMap: {}
-  m_Tag: MaterialSpriteAtlas
+  m_Tag: Icons
   m_IsVariant: 0
