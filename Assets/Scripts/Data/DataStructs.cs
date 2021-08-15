@@ -1,24 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-
-public readonly struct DisplayResearchData
-{
-    public readonly int ResearchdataLocation;
-    public readonly DisplayData display;
-}
-
-public readonly struct DisplayData
-{
-    public readonly double TotalAmount;
-    public readonly double TotalResearch;
-    public readonly double TotalEfficiency;
-
-    public readonly double CubeEfficiency;
-    public readonly double PowerEfficiency;
-    public readonly double ShieldEfficiency;
-    public readonly double GearEfficiency;
-}
 
 [Serializable]
 public readonly struct ReasearchData
