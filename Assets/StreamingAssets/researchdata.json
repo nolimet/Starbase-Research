@@ -1,12 +1,12 @@
 {
   "objects": [
     {
-      "name": "Basic",
+      "Name": "Basic",
       "Cube": 22,
       "Power": 0,
       "Shield": 0,
       "Gear": 0,
-      "materials": [
+      "Materials": [
         {
           "Type": "Bastium",
           "Amount": 265.8
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "name": "Basic 1 Hardpoint",
+      "Name": "Basic 1 Hardpoint",
       "Cube": 8,
       "Power": 0,
       "Shield": 0,
       "Gear": 0,
-      "materials": [
+      "Materials": [
         {
           "Type": "Bastium",
           "Amount": 278.07
@@ -39,12 +39,12 @@
       ]
     },
     {
-      "name": "Basic 1 Ore Crate (Corner)",
+      "Name": "Basic 1 Ore Crate (Corner)",
       "Cube": 47,
       "Power": 8,
       "Shield": 0,
       "Gear": 8,
-      "materials": [
+      "Materials": [
         {
           "Type": "Bastium",
           "Amount": 650.26
@@ -56,12 +56,12 @@
       ]
     },
     {
-      "name": "Basic 1 T1 Fuel Rod & Rack",
+      "Name": "Basic 1 T1 Fuel Rod & Rack",
       "Cube": 39,
       "Power": 3,
       "Shield": 0,
       "Gear": 3,
-      "materials": [
+      "Materials": [
         {
           "Type": "Bastium",
           "Amount": 472.42
@@ -77,12 +77,12 @@
       ]
     },
     {
-      "name": "Basic 1 T1 Maneuver Thruster",
+      "Name": "Basic 1 T1 Maneuver Thruster",
       "Cube": 8,
       "Power": 2,
       "Shield": 0,
       "Gear": 0,
-      "materials": [
+      "Materials": [
         {
           "Type": "Bastium",
           "Amount": 292.56
@@ -102,12 +102,12 @@
       ]
     },
     {
-      "name": "Basic 2 Small Propellant",
+      "Name": "Basic 2 Small Propellant",
       "Cube": 45,
       "Power": 0,
       "Shield": 0,
       "Gear": 28,
-      "materials": [
+      "Materials": [
         {
           "Type": "Bastium",
           "Amount": 732.45
@@ -123,12 +123,12 @@
       ]
     },
     {
-      "name": "Basic 2 T1 Fuel Rod & Rack",
+      "Name": "Basic 2 T1 Fuel Rod & Rack",
       "Cube": 56,
       "Power": 6,
       "Shield": 0,
       "Gear": 6,
-      "materials": [
+      "Materials": [
         {
           "Type": "Bastium",
           "Amount": 679.05
@@ -144,12 +144,12 @@
       ]
     },
     {
-      "name": "Basic 4 Battery",
+      "Name": "Basic 4 Battery",
       "Cube": 49,
       "Power": 228,
       "Shield": 0,
       "Gear": 60,
-      "materials": [
+      "Materials": [
         {
           "Type": "Bastium",
           "Amount": 782.3
@@ -165,12 +165,12 @@
       ]
     },
     {
-      "name": "Basic 8 Battery",
+      "Name": "Basic 8 Battery",
       "Cube": 77,
       "Power": 456,
       "Shield": 0,
       "Gear": 120,
-      "materials": [
+      "Materials": [
         {
           "Type": "Bastium",
           "Amount": 1294.05
