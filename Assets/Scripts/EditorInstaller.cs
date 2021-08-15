@@ -12,7 +12,7 @@ public class EditorInstaller : ScriptableObjectInstaller
 
     public override void InstallBindings()
     {
-        Container.Bind<ResearchDataService>().ToSelf().AsSingle();
+        Container.Bind<ResearchDataService>().ToSelf().AsCached().IfNotBound();
         Container.BindInterfacesAndSelfTo<TabActionService>().AsSingle();
 
         Container.BindInstance(materialIconsConfiguration).AsSingle();
