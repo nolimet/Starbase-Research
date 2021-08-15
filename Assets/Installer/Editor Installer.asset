@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bc81ecf69a413f4cb531f2ffdd3d57d, type: 3}
+  m_Name: Editor Installer
+  m_EditorClassIdentifier: 
+  materialDataEditorPrefab: {fileID: 4788370128662264262, guid: abc8a8dafd74abd45bb9915135b09e47, type: 3}
+  materialIconsConfiguration: {fileID: 11400000, guid: 5db34e595b499ed49a768378d97bfc5e, type: 2}
