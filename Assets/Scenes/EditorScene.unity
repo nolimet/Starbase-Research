@@ -704,6 +704,7 @@ MonoBehaviour:
   shieldAmount: {fileID: 1574038710}
   gearAmount: {fileID: 55664961}
   materialContainer: {fileID: 125394690}
+  lastAction: {fileID: 1632091242}
 --- !u!224 &349612959 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 3346519930767031458, guid: 8488996321b8c1247a19b0f8ed437d5d, type: 3}
