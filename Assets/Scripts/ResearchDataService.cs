@@ -63,7 +63,7 @@ public class ResearchDataService
             file.Directory.Create();
         }
 
-        string json = JsonConvert.SerializeObject(new ReasearchData(researchObjects.OrderBy(x => x.Name).ToArray()), Formatting.Indented);
+        string json = JsonConvert.SerializeObject(new ReasearchData(researchObjects.OrderBy(x => x.Name).ToArray()), Formatting.None);
         using (var textWriter = file.CreateText())
         {
             await textWriter.WriteAsync(json);
