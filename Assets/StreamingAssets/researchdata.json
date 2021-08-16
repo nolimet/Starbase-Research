@@ -184,6 +184,1422 @@
           "Amount": 5446.6
         }
       ]
+    },
+    {
+      "Name": "Basic Hatch",
+      "Cube": 9,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Nhurgite",
+          "Amount": 0.44
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 231.26
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 54.44
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 5.47
+        }
+      ]
+    },
+    {
+      "Name": "Basic Window",
+      "Cube": 52,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Aegisium",
+          "Amount": 194.41
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 197.78
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 52.24
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 388.83
+        }
+      ]
+    },
+    {
+      "Name": "Basic Wing Small",
+      "Cube": 27,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 435.49
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 105.7
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 18.03
+        }
+      ]
+    },
+    {
+      "Name": "Basic Wing Small 2 T1 Maneuver Thruster",
+      "Cube": 27,
+      "Power": 4,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 464.46
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 129.85
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 18.03
+        },
+        {
+          "Type": "Charodium",
+          "Amount": 43.46
+        }
+      ]
+    },
+    {
+      "Name": "Block of 4 Ore Crates",
+      "Cube": 171,
+      "Power": 32,
+      "Shield": 0,
+      "Gear": 32,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 2321.71
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 543.34
+        }
+      ]
+    },
+    {
+      "Name": "Block of 4 Ore Crates (Edge)",
+      "Cube": 171,
+      "Power": 32,
+      "Shield": 0,
+      "Gear": 32,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 2319.98
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 543.34
+        }
+      ]
+    },
+    {
+      "Name": "BottleNeck 2",
+      "Cube": 47,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 658.37
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 149.79
+        }
+      ]
+    },
+    {
+      "Name": "BottleNeck 4",
+      "Cube": 71,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 1008.33
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 244.26
+        }
+      ]
+    },
+    {
+      "Name": "BottleNeck 4 Curved",
+      "Cube": 73,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 1057.13
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 244.26
+        }
+      ]
+    },
+    {
+      "Name": "Cockpit 2 small exposed",
+      "Cube": 136,
+      "Power": 483,
+      "Shield": 0,
+      "Gear": 30,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 581.25
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 3668.97
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 646.99
+        },
+        {
+          "Type": "Nhurgite",
+          "Amount": 1362.95
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 1788.34
+        }
+      ]
+    },
+    {
+      "Name": "Cockpit 2 small exposed (T1 Laborer)",
+      "Cube": 151,
+      "Power": 529,
+      "Shield": 0,
+      "Gear": 70,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 1091.54
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 4156.68
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 740.6
+        },
+        {
+          "Type": "Nhurgite",
+          "Amount": 1363.09
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 2003.61
+        }
+      ]
+    },
+    {
+      "Name": "Cockpit 3 medium exposed",
+      "Cube": 211,
+      "Power": 532,
+      "Shield": 0,
+      "Gear": 30,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 786.19
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 4157.47
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 852.97
+        },
+        {
+          "Type": "Nhurgite",
+          "Amount": 1362.58
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 2912.32
+        }
+      ]
+    },
+    {
+      "Name": "Cockpit 3 small",
+      "Cube": 505,
+      "Power": 412,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 786.19
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 3769.62
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 3561.56
+        },
+        {
+          "Type": "Aegisium",
+          "Amount": 1418.33
+        },
+        {
+          "Type": "Nhurgite",
+          "Amount": 1.66
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 2248.56
+        }
+      ]
+    },
+    {
+      "Name": "Corner 1 ore Crate",
+      "Cube": 72,
+      "Power": 8,
+      "Shield": 0,
+      "Gear": 8,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 978.87
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 167.19
+        }
+      ]
+    },
+    {
+      "Name": "Curved 1 Ore Crate",
+      "Cube": 40,
+      "Power": 8,
+      "Shield": 0,
+      "Gear": 8,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 615.15
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 140.06
+        }
+      ]
+    },
+    {
+      "Name": "Curved Basic",
+      "Cube": 32,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 404.02
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 66.75
+        }
+      ]
+    },
+    {
+      "Name": "Curved Corner 2 Hardpoint",
+      "Cube": 34,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 646.78
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 240.06
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 132.33
+        }
+      ]
+    },
+    {
+      "Name": "Curved corner 2 Hardpoint Mirror",
+      "Cube": 34,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 646.78
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 240.06
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 132.33
+        }
+      ]
+    },
+    {
+      "Name": "Curved Hatch",
+      "Cube": 24,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Nhurgite",
+          "Amount": 0.44
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 390.84
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 89.75
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 0.89
+        }
+      ]
+    },
+    {
+      "Name": "Curved L-Shape Adapter",
+      "Cube": 32,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 424.66
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 63.22
+        }
+      ]
+    },
+    {
+      "Name": "Curved L-Shape Adapter Mirror",
+      "Cube": 32,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 424.66
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 63.22
+        }
+      ]
+    },
+    {
+      "Name": "Curved Window 1",
+      "Cube": 81,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Aegisium",
+          "Amount": 264.31
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 314.03
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 69.89
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 528.62
+        }
+      ]
+    },
+    {
+      "Name": "Curved Window 2",
+      "Cube": 98,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Aegisium",
+          "Amount": 362.43
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 294.83
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 87.54
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 724.86
+        }
+      ]
+    },
+    {
+      "Name": "Extension (3 Connection)",
+      "Cube": 33,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 502.13
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 126.58
+        }
+      ]
+    },
+    {
+      "Name": "Extension 2 HardPoint (3 connection)",
+      "Cube": 19,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 540.6
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 302.93
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 132.84
+        }
+      ]
+    },
+    {
+      "Name": "Extension 3 HardPoint (3 connection)",
+      "Cube": 8,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 568.77
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 391.83
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 199.26
+        }
+      ]
+    },
+    {
+      "Name": "Extension 4 Hardpoint (2 Connection)",
+      "Cube": 8,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 666.51
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 510.1
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 265.68
+        }
+      ]
+    },
+    {
+      "Name": "Extension 5 Hardpoint (1 Connection)",
+      "Cube": 8,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 788.59
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 527.06
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 332.11
+        }
+      ]
+    },
+    {
+      "Name": "Extension Corner 3 Ore Crate",
+      "Cube": 88,
+      "Power": 24,
+      "Shield": 0,
+      "Gear": 24,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 1276.22
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 298.81
+        }
+      ]
+    },
+    {
+      "Name": "Extension hatch",
+      "Cube": 13,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Nhurgite",
+          "Amount": 0.44
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 247.22
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 64.75
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 5.47
+        }
+      ]
+    },
+    {
+      "Name": "Extension Wing 5 Hardpoint (1 Connection)",
+      "Cube": 21,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 505.41
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 198.22
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 45.08
+        }
+      ]
+    },
+    {
+      "Name": "Inner Corner",
+      "Cube": 24,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 305.33
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 90.2
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape 1 Hardpoint",
+      "Cube": 24,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 434.81
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 155.87
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 66.42
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape 1 Ore Crate",
+      "Cube": 36,
+      "Power": 8,
+      "Shield": 0,
+      "Gear": 8,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 627.73
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 140.06
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape 1 T1 Box Thruster & Extra Hardpoint",
+      "Cube": 56,
+      "Power": 25,
+      "Shield": 0,
+      "Gear": 153,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 1150.96
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 1147.46
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 535.25
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 75.44
+        }
+      ]
+    },
+    {
+      "Name": "L-shape 1 T1 Maneuver Thruster",
+      "Cube": 24,
+      "Power": 2,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 21.73
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 449.3
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 167.94
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 66.42
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape 2 Hardpoint",
+      "Cube": 10,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 415.96
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 248.51
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 132.84
+        }
+      ]
+    },
+    {
+      "Name": "L-shape 2 small propellant",
+      "Cube": 57,
+      "Power": 28,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 903.47
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 276.61
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 16.01
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape 4 Ore crate",
+      "Cube": 221,
+      "Power": 32,
+      "Shield": 0,
+      "Gear": 32,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 2898.89
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 556.65
+        }
+      ]
+    },
+    {
+      "Name": "L-shape 8 battery",
+      "Cube": 90,
+      "Power": 456,
+      "Shield": 0,
+      "Gear": 120,
+      "Materials": [
+        {
+          "Type": "Nhurgite",
+          "Amount": 5446.6
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 1475.82
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 414.6
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape Basic",
+      "Cube": 35,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 451.25
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 63.22
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape Basic",
+      "Cube": 45,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 586.05
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 58.19
+        }
+      ]
+    },
+    {
+      "Name": "L-shape corner 3 Hardpoint",
+      "Cube": 9,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 580.47
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 336.13
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 199.26
+        }
+      ]
+    },
+    {
+      "Name": "L-shape hatch",
+      "Cube": 28,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Nhurgite",
+          "Amount": 0.44
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 403.79
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 76.4
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 5.47
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape T1 Generator 1+1 with hatch",
+      "Cube": 84,
+      "Power": 24,
+      "Shield": 0,
+      "Gear": 78,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 537.32
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 1304.23
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 471.86
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 289.8
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape T1 Generator 1+2 with hatch",
+      "Cube": 93,
+      "Power": 29,
+      "Shield": 0,
+      "Gear": 102,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 660.67
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 1481.22
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 556.72
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 495.3
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape T1 Generator 1+2 with hatch (Centered)",
+      "Cube": 93,
+      "Power": 29,
+      "Shield": 0,
+      "Gear": 102,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 660.67
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 1484.47
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 556.72
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 495.3
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape T1 Generator 2+2 & Radiation with hatch",
+      "Cube": 115,
+      "Power": 48,
+      "Shield": 0,
+      "Gear": 193,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 1458.08
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 1692.96
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 1029.53
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 566.19
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape Window 1",
+      "Cube": 73,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Aegisium",
+          "Amount": 194.41
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 380.58
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 74.19
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 388.83
+        }
+      ]
+    },
+    {
+      "Name": "L-Shape Window 2",
+      "Cube": 107,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Aegisium",
+          "Amount": 388.83
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 324.35
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 74.19
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 777.66
+        }
+      ]
+    },
+    {
+      "Name": "Material Point Scanner Fixed Mount",
+      "Cube": 96,
+      "Power": 37,
+      "Shield": 131,
+      "Gear": 18,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 862.68
+        },
+        {
+          "Type": "Exorium",
+          "Amount": 128.85
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 385.87
+        },
+        {
+          "Type": "Aegisium",
+          "Amount": 818.27
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 503.8
+        }
+      ]
+    },
+    {
+      "Name": "Mining Laser Fixed mount",
+      "Cube": 232,
+      "Power": 311,
+      "Shield": 580,
+      "Gear": 622,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 6865.92
+        },
+        {
+          "Type": "Exorium",
+          "Amount": 4002.12
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 2358.04
+        },
+        {
+          "Type": "Aegisium",
+          "Amount": 517.6
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 2390.18
+        }
+      ]
+    },
+    {
+      "Name": "Modular Cargo frame",
+      "Cube": 32,
+      "Power": 8,
+      "Shield": 0,
+      "Gear": 8,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 398.41
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 99.6
+        }
+      ]
+    },
+    {
+      "Name": "Ore Collector fixed mount",
+      "Cube": 88,
+      "Power": 1,
+      "Shield": 169,
+      "Gear": 46,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 862.68
+        },
+        {
+          "Type": "Exorium",
+          "Amount": 131.87
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 214.06
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 263.73
+        },
+        {
+          "Type": "Aegisium",
+          "Amount": 985.14
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 581.75
+        }
+      ]
+    },
+    {
+      "Name": "Radiator base +2 extensions",
+      "Cube": 11,
+      "Power": 21,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 196.71
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 78.69
+        },
+        {
+          "Type": "Aegisium",
+          "Amount": 118.03
+        }
+      ]
+    },
+    {
+      "Name": "Resource Bridge",
+      "Cube": 0,
+      "Power": 3,
+      "Shield": 0,
+      "Gear": 9,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 61.92
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 77.39
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 15.48
+        }
+      ]
+    },
+    {
+      "Name": "Small fuel rod rack",
+      "Cube": 17,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 172.05
+        }
+      ]
+    },
+    {
+      "Name": "Thrusters box",
+      "Cube": 42,
+      "Power": 25,
+      "Shield": 0,
+      "Gear": 153,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 1150.96
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 780.24
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 350.74
+        }
+      ]
+    },
+    {
+      "Name": "Thrusters Triangle",
+      "Cube": 18,
+      "Power": 10,
+      "Shield": 0,
+      "Gear": 69,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 510.74
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 379.0
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 184.49
+        }
+      ]
+    },
+    {
+      "Name": "Tier 1 Generator 2 Radiatior",
+      "Cube": 99,
+      "Power": 34,
+      "Shield": 0,
+      "Gear": 180,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 1346.45
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 1374.73
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 987.99
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 693.39
+        }
+      ]
+    },
+    {
+      "Name": "Tier 1 generator fuel rod",
+      "Cube": 0,
+      "Power": 3,
+      "Shield": 0,
+      "Gear": 3,
+      "Materials": [
+        {
+          "Type": "Bastium",
+          "Amount": 34.57
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 34.57
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 69.14
+        }
+      ]
+    },
+    {
+      "Name": "Tier 1 generator fuel rod (full)",
+      "Cube": 17,
+      "Power": 0,
+      "Shield": 0,
+      "Gear": 0,
+      "Materials": [
+        {
+          "Type": "Nhurgite",
+          "Amount": 83.0
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 34.57
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 34.57
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 69.14
+        }
+      ]
+    },
+    {
+      "Name": "Top Cockpit Exposed 1x2 long",
+      "Cube": 138,
+      "Power": 526,
+      "Shield": 0,
+      "Gear": 30,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 786.19
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 3689.77
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 651.34
+        },
+        {
+          "Type": "Nhurgite",
+          "Amount": 1362.58
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 1476.53
+        }
+      ]
+    },
+    {
+      "Name": "Top Cockpit Exposed 1x2 Wide",
+      "Cube": 138,
+      "Power": 528,
+      "Shield": 0,
+      "Gear": 30,
+      "Materials": [
+        {
+          "Type": "Charodium",
+          "Amount": 786.19
+        },
+        {
+          "Type": "Vokarium",
+          "Amount": 3779.46
+        },
+        {
+          "Type": "Ajatite",
+          "Amount": 659.66
+        },
+        {
+          "Type": "Nhurgite",
+          "Amount": 1362.58
+        },
+        {
+          "Type": "Bastium",
+          "Amount": 1565.07
+        }
+      ]
     }
   ]
 }
