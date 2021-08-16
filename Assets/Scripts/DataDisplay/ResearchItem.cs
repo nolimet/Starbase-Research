@@ -2,29 +2,57 @@
 using System.Linq;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 using Zenject;
 
 public class ResearchItem : MonoBehaviour
 {
     [SerializeField]
-    private TextMeshProUGUI name, cube, power, shield, gear;
+    private new TextMeshProUGUI name = null, cube = null, power = null, shield = null, gear = null;
 
     [SerializeField]
-    private TextMeshProUGUI totalKV, cubeEfficiency, powerEfficiency, shieldEfficiency, gearEfficiency;
+    private TextMeshProUGUI totalKV = null, cubeEfficiency = null, powerEfficiency = null, shieldEfficiency = null, gearEfficiency = null;
 
     [SerializeField]
-    private Transform MaterialContainer;
+    private Transform MaterialContainer = null;
+
+    [SerializeField]
+    private Graphic background = null;
 
     [Inject]
     private ResearchDataService researchDataService;
 
     private readonly List<MaterialItem> materialObjects = new List<MaterialItem>();
 
-    private ResearchObject researchObject;
+    public ResearchObject ResearchObject { get; private set; }
+    public SearchdataObject Searchdata { get; private set; }
+
+    public void SetBackgroundEnabled(bool isEnabled)
+    {
+        background.enabled = isEnabled;
+    }
 
     public void Remove()
     {
-        researchDataService.RemoveResearchObject(researchObject);
+        researchDataService.RemoveResearchObject(ResearchObject);
+    }
+
+    public readonly struct SearchdataObject
+    {
+        public readonly double totalKV;
+        public readonly double cubeEfficiency;
+        public readonly double powerEfficiency;
+        public readonly double shieldEfficiency;
+        public readonly double gearEfficiency;
+
+        public SearchdataObject(double totalKV, double cubeEfficiency, double powerEfficiency, double shieldEfficiency, double gearEfficiency)
+        {
+            this.totalKV = totalKV;
+            this.cubeEfficiency = cubeEfficiency;
+            this.powerEfficiency = powerEfficiency;
+            this.shieldEfficiency = shieldEfficiency;
+            this.gearEfficiency = gearEfficiency;
+        }
     }
 
     public class Factory : PlaceholderFactory<ResearchItem>
@@ -36,7 +64,7 @@ public class ResearchItem : MonoBehaviour
         {
             var n = base.Create();
             n.transform.SetParent(parent, false);
-            n.researchObject = researchObject;
+            n.ResearchObject = researchObject;
 
             n.name.text = researchObject.Name;
             n.cube.text = researchObject.Cube.ToString();
@@ -45,6 +73,15 @@ public class ResearchItem : MonoBehaviour
             n.gear.text = researchObject.Gear.ToString();
 
             double totalKV = researchObject.Materials.Sum(x => x.Amount);
+
+            n.Searchdata = new SearchdataObject
+                (
+                    totalKV: totalKV,
+                    cubeEfficiency: researchObject.Cube / totalKV,
+                    powerEfficiency: researchObject.Power / totalKV,
+                    shieldEfficiency: researchObject.Shield / totalKV,
+                    gearEfficiency: researchObject.Gear / totalKV
+                );
 
             n.totalKV.text = string.Format("{0:#.####}kv", totalKV);
             n.cubeEfficiency.text = (researchObject.Cube / totalKV).ToString("0.####");
